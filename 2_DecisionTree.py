@@ -4,7 +4,7 @@ import numpy as np
 import math
 from sklearn import metrics
 import BaseFunc
-mon_inEng={'Jan'}
+mon_inEng={'Jan','Feb'}
 if __name__ == '__main__':
     
     obs_img_path=r'F:\TestDemo1\obs_pr__1967_2.tif'
